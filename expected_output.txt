@@ -1,0 +1,1177 @@
+Vehicle was added. Plane (TC-OOA), model: Boeing, capacity: 180, businessSeatCount: 36
+Basic seat price was set to 190 TL for TC-OOA.
+Basic baggage limit was set to 20 kg for TC-OOA.
+17B booked.
+8D booked.
+No such seat exists.
+No such seat exists.
+15B booked.
+9E booked.
+3B booked.
+21D booked.
+30B booked.
+No such seat exists.
+No such seat exists.
+14A booked.
+22B booked.
+10B booked.
+4D booked.
+No such seat exists.
+24C booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+11B booked.
+20E booked.
+3B cannot be booked, it's already booked.
+30E booked.
+3E booked.
+No such seat exists.
+5D booked.
+12A booked.
+30A booked.
+21C booked.
+No such seat exists.
+No such seat exists.
+9C booked.
+6C booked.
+No such seat exists.
+29D booked.
+14A cannot be booked, it's already booked.
+No such seat exists.
+No such seat exists.
+24B booked.
+30D booked.
+16B booked.
+7A booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+5D cannot be booked, it's already booked.
+11C booked.
+3C booked.
+19A booked.
+1E booked.
+No such seat exists.
+No such seat exists.
+19D booked.
+9D booked.
+No such seat exists.
+18D booked.
+19E booked.
+4A booked.
+26C booked.
+No such seat exists.
+16A booked.
+No such seat exists.
+No such seat exists.
+8A booked.
+No such seat exists.
+27A booked.
+12B booked.
+19C booked.
+23E booked.
+29B booked.
+16E booked.
+No such seat exists.
+No such seat exists.
+4B booked.
+13B booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+25B booked.
+No such seat exists.
+No such seat exists.
+23D booked.
+24E booked.
+23A booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+14B booked.
+No such seat exists.
+No such seat exists.
+2C booked.
+22B cannot be booked, it's already booked.
+9B booked.
+29C booked.
+
+### START OF PLANE INFO ###
+Plane (TC-OOA), model: Boeing, capacity: 180, businessSeatCount: 36
+
+*1A	[ ]	*1B	[ ]	*1C	[ ]			*1D	[ ]	*1E	[X]	*1F	[ ]
+*2A	[ ]	*2B	[ ]	*2C	[X]			*2D	[ ]	*2E	[ ]	*2F	[ ]
+*3A	[ ]	*3B	[X]	*3C	[X]			*3D	[ ]	*3E	[X]	*3F	[ ]
+*4A	[X]	*4B	[X]	*4C	[ ]			*4D	[X]	*4E	[ ]	*4F	[ ]
+*5A	[ ]	*5B	[ ]	*5C	[ ]			*5D	[X]	*5E	[ ]	*5F	[ ]
+*6A	[ ]	*6B	[ ]	*6C	[X]			*6D	[ ]	*6E	[ ]	*6F	[ ]
+7A	[X]	7B	[ ]	7C	[ ]			7D	[ ]	7E	[ ]	7F	[ ]
+8A	[X]	8B	[ ]	8C	[ ]			8D	[X]	8E	[ ]	8F	[ ]
+9A	[ ]	9B	[X]	9C	[X]			9D	[X]	9E	[X]	9F	[ ]
+10A	[ ]	10B	[X]	10C	[ ]			10D	[ ]	10E	[ ]	10F	[ ]
+11A	[ ]	11B	[X]	11C	[X]			11D	[ ]	11E	[ ]	11F	[ ]
+12A	[X]	12B	[X]	12C	[ ]			12D	[ ]	12E	[ ]	12F	[ ]
+13A	[ ]	13B	[X]	13C	[ ]			13D	[ ]	13E	[ ]	13F	[ ]
+14A	[X]	14B	[X]	14C	[ ]			14D	[ ]	14E	[ ]	14F	[ ]
+15A	[ ]	15B	[X]	15C	[ ]			15D	[ ]	15E	[ ]	15F	[ ]
+16A	[X]	16B	[X]	16C	[ ]			16D	[ ]	16E	[X]	16F	[ ]
+17A	[ ]	17B	[X]	17C	[ ]			17D	[ ]	17E	[ ]	17F	[ ]
+18A	[ ]	18B	[ ]	18C	[ ]			18D	[X]	18E	[ ]	18F	[ ]
+19A	[X]	19B	[ ]	19C	[X]			19D	[X]	19E	[X]	19F	[ ]
+20A	[ ]	20B	[ ]	20C	[ ]			20D	[ ]	20E	[X]	20F	[ ]
+21A	[ ]	21B	[ ]	21C	[X]			21D	[X]	21E	[ ]	21F	[ ]
+22A	[ ]	22B	[X]	22C	[ ]			22D	[ ]	22E	[ ]	22F	[ ]
+23A	[X]	23B	[ ]	23C	[ ]			23D	[X]	23E	[X]	23F	[ ]
+24A	[ ]	24B	[X]	24C	[X]			24D	[ ]	24E	[X]	24F	[ ]
+25A	[ ]	25B	[X]	25C	[ ]			25D	[ ]	25E	[ ]	25F	[ ]
+26A	[ ]	26B	[ ]	26C	[X]			26D	[ ]	26E	[ ]	26F	[ ]
+27A	[X]	27B	[ ]	27C	[ ]			27D	[ ]	27E	[ ]	27F	[ ]
+28A	[ ]	28B	[ ]	28C	[ ]			28D	[ ]	28E	[ ]	28F	[ ]
+29A	[ ]	29B	[X]	29C	[X]			29D	[X]	29E	[ ]	29F	[ ]
+30A	[X]	30B	[X]	30C	[ ]			30D	[X]	30E	[X]	30F	[ ]
+### END OF PLANE INFO ###
+
+### START OF SEAT SUMMARIES ###
+Plane (TC-OOA), model: Boeing, capacity: 180, businessSeatCount: 36
+BusinessPlaneSeat - Label: 1A - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 1B - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 1C - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 1D - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 1E - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 1F - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2A - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2B - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2C - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 2D - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2E - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2F - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 3A - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 3B - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 3C - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 3D - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 3E - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 3F - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 4A - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 4B - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 4C - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 4D - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 4E - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 4F - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5A - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5B - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5C - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5D - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 5E - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5F - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6A - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6B - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6C - Price: 342 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 6D - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6E - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6F - Price: 342 TL - Baggage Limit: 40 kg - Booked: false
+PlaneSeat - Label: 7A - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 7B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 7C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 7D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 7E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 7F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8A - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 8B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8D - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 8E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 9A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 9B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 9C - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 9D - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 9E - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 9F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 10C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 11C - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 11D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 12A - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 12B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 12C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 12D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 12E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 12F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 13C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14A - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 14B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 14C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 15C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 16A - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 16B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 16C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 16D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 16E - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 16F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 17C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18D - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 18E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 19A - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 19B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 19C - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 19D - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 19E - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 19F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20E - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 20F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 21A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 21B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 21C - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 21D - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 21E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 21F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 22C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 23A - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 23B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 23C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 23D - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 23E - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 23F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 24A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 24B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 24C - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 24D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 24E - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 24F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 25C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26C - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 26D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27A - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 27B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28B - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28D - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29A - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 29C - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 29D - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 29E - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 30A - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 30B - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 30C - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 30D - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 30E - Price: 190 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 30F - Price: 190 TL - Baggage Limit: 20 kg - Booked: false
+### END OF SEAT SUMMARIES ###
+
+Vehicle was added. LargePlane (TC-PBM), model: Airbus, capacity: 368, businessSeatCount: 56
+Basic seat price was set to 320 TL for TC-PBM.
+Basic baggage limit was set to 20 kg for TC-PBM.
+No such seat exists.
+45E booked.
+No such seat exists.
+28D booked.
+41D booked.
+33D booked.
+14B booked.
+35B booked.
+No such seat exists.
+10B booked.
+No such seat exists.
+3B booked.
+30D booked.
+3E booked.
+39E booked.
+23E booked.
+21A booked.
+No such seat exists.
+38C booked.
+12A booked.
+19E booked.
+28C booked.
+38D booked.
+37C booked.
+No such seat exists.
+23B booked.
+No such seat exists.
+15E booked.
+No such seat exists.
+25B booked.
+No such seat exists.
+46D booked.
+13C booked.
+7C booked.
+9B booked.
+37C cannot be booked, it's already booked.
+19B booked.
+46A booked.
+40A booked.
+34A booked.
+No such seat exists.
+3D booked.
+26E booked.
+11D booked.
+3A booked.
+15E cannot be booked, it's already booked.
+1D booked.
+42B booked.
+No such seat exists.
+36B booked.
+34E booked.
+5D booked.
+18B booked.
+22D booked.
+46C booked.
+5C booked.
+15E cannot be booked, it's already booked.
+6D booked.
+28B booked.
+39C booked.
+No such seat exists.
+30A booked.
+29D booked.
+10C booked.
+No such seat exists.
+14A booked.
+1E booked.
+14B cannot be booked, it's already booked.
+No such seat exists.
+12B booked.
+8A booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+30D cannot be booked, it's already booked.
+2C booked.
+21E booked.
+13B booked.
+No such seat exists.
+23E cannot be booked, it's already booked.
+46D cannot be booked, it's already booked.
+10C cannot be booked, it's already booked.
+11D cannot be booked, it's already booked.
+21D booked.
+46C cannot be booked, it's already booked.
+44B booked.
+13B cannot be booked, it's already booked.
+9A booked.
+16B booked.
+2B booked.
+17D booked.
+2A booked.
+39C cannot be booked, it's already booked.
+No such seat exists.
+36A booked.
+5C cannot be booked, it's already booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+34D booked.
+No such seat exists.
+No such seat exists.
+26C booked.
+17E booked.
+No such seat exists.
+35A booked.
+No such seat exists.
+5D cannot be booked, it's already booked.
+31A booked.
+7A booked.
+No such seat exists.
+8A cannot be booked, it's already booked.
+4D booked.
+5D cannot be booked, it's already booked.
+35B cannot be booked, it's already booked.
+44E booked.
+38C cannot be booked, it's already booked.
+No such seat exists.
+7A cannot be booked, it's already booked.
+No such seat exists.
+No such seat exists.
+16D booked.
+44A booked.
+4C booked.
+3D cannot be booked, it's already booked.
+15C booked.
+10A booked.
+24C booked.
+33E booked.
+24E booked.
+12E booked.
+37C cannot be booked, it's already booked.
+16B cannot be booked, it's already booked.
+20E booked.
+46E booked.
+1B booked.
+No such seat exists.
+43C booked.
+No such seat exists.
+11B booked.
+No such seat exists.
+No such seat exists.
+1B cannot be booked, it's already booked.
+20D booked.
+15A booked.
+21B booked.
+24D booked.
+3C booked.
+25B cannot be booked, it's already booked.
+45B booked.
+
+### START OF PLANE INFO ###
+LargePlane (TC-PBM), model: Airbus, capacity: 368, businessSeatCount: 56
+
+*1A	[ ]	*1B	[X]			*1C	[ ]	*1D	[X]	*1E	[X]	*1F	[ ]			*1G	[ ]	*1H	[ ]
+*2A	[X]	*2B	[X]			*2C	[X]	*2D	[ ]	*2E	[ ]	*2F	[ ]			*2G	[ ]	*2H	[ ]
+*3A	[X]	*3B	[X]			*3C	[X]	*3D	[X]	*3E	[X]	*3F	[ ]			*3G	[ ]	*3H	[ ]
+*4A	[ ]	*4B	[ ]			*4C	[X]	*4D	[X]	*4E	[ ]	*4F	[ ]			*4G	[ ]	*4H	[ ]
+*5A	[ ]	*5B	[ ]			*5C	[X]	*5D	[X]	*5E	[ ]	*5F	[ ]			*5G	[ ]	*5H	[ ]
+*6A	[ ]	*6B	[ ]			*6C	[ ]	*6D	[X]	*6E	[ ]	*6F	[ ]			*6G	[ ]	*6H	[ ]
+*7A	[X]	*7B	[ ]			*7C	[X]	*7D	[ ]	*7E	[ ]	*7F	[ ]			*7G	[ ]	*7H	[ ]
+8A	[X]	8B	[ ]			8C	[ ]	8D	[ ]	8E	[ ]	8F	[ ]			8G	[ ]	8H	[ ]
+9A	[X]	9B	[X]			9C	[ ]	9D	[ ]	9E	[ ]	9F	[ ]			9G	[ ]	9H	[ ]
+10A	[X]	10B	[X]			10C	[X]	10D	[ ]	10E	[ ]	10F	[ ]			10G	[ ]	10H	[ ]
+11A	[ ]	11B	[X]			11C	[ ]	11D	[X]	11E	[ ]	11F	[ ]			11G	[ ]	11H	[ ]
+12A	[X]	12B	[X]			12C	[ ]	12D	[ ]	12E	[X]	12F	[ ]			12G	[ ]	12H	[ ]
+13A	[ ]	13B	[X]			13C	[X]	13D	[ ]	13E	[ ]	13F	[ ]			13G	[ ]	13H	[ ]
+14A	[X]	14B	[X]			14C	[ ]	14D	[ ]	14E	[ ]	14F	[ ]			14G	[ ]	14H	[ ]
+15A	[X]	15B	[ ]			15C	[X]	15D	[ ]	15E	[X]	15F	[ ]			15G	[ ]	15H	[ ]
+16A	[ ]	16B	[X]			16C	[ ]	16D	[X]	16E	[ ]	16F	[ ]			16G	[ ]	16H	[ ]
+17A	[ ]	17B	[ ]			17C	[ ]	17D	[X]	17E	[X]	17F	[ ]			17G	[ ]	17H	[ ]
+18A	[ ]	18B	[X]			18C	[ ]	18D	[ ]	18E	[ ]	18F	[ ]			18G	[ ]	18H	[ ]
+19A	[ ]	19B	[X]			19C	[ ]	19D	[ ]	19E	[X]	19F	[ ]			19G	[ ]	19H	[ ]
+20A	[ ]	20B	[ ]			20C	[ ]	20D	[X]	20E	[X]	20F	[ ]			20G	[ ]	20H	[ ]
+21A	[X]	21B	[X]			21C	[ ]	21D	[X]	21E	[X]	21F	[ ]			21G	[ ]	21H	[ ]
+22A	[ ]	22B	[ ]			22C	[ ]	22D	[X]	22E	[ ]	22F	[ ]			22G	[ ]	22H	[ ]
+23A	[ ]	23B	[X]			23C	[ ]	23D	[ ]	23E	[X]	23F	[ ]			23G	[ ]	23H	[ ]
+24A	[ ]	24B	[ ]			24C	[X]	24D	[X]	24E	[X]	24F	[ ]			24G	[ ]	24H	[ ]
+25A	[ ]	25B	[X]			25C	[ ]	25D	[ ]	25E	[ ]	25F	[ ]			25G	[ ]	25H	[ ]
+26A	[ ]	26B	[ ]			26C	[X]	26D	[ ]	26E	[X]	26F	[ ]			26G	[ ]	26H	[ ]
+27A	[ ]	27B	[ ]			27C	[ ]	27D	[ ]	27E	[ ]	27F	[ ]			27G	[ ]	27H	[ ]
+28A	[ ]	28B	[X]			28C	[X]	28D	[X]	28E	[ ]	28F	[ ]			28G	[ ]	28H	[ ]
+29A	[ ]	29B	[ ]			29C	[ ]	29D	[X]	29E	[ ]	29F	[ ]			29G	[ ]	29H	[ ]
+30A	[X]	30B	[ ]			30C	[ ]	30D	[X]	30E	[ ]	30F	[ ]			30G	[ ]	30H	[ ]
+31A	[X]	31B	[ ]			31C	[ ]	31D	[ ]	31E	[ ]	31F	[ ]			31G	[ ]	31H	[ ]
+32A	[ ]	32B	[ ]			32C	[ ]	32D	[ ]	32E	[ ]	32F	[ ]			32G	[ ]	32H	[ ]
+33A	[ ]	33B	[ ]			33C	[ ]	33D	[X]	33E	[X]	33F	[ ]			33G	[ ]	33H	[ ]
+34A	[X]	34B	[ ]			34C	[ ]	34D	[X]	34E	[X]	34F	[ ]			34G	[ ]	34H	[ ]
+35A	[X]	35B	[X]			35C	[ ]	35D	[ ]	35E	[ ]	35F	[ ]			35G	[ ]	35H	[ ]
+36A	[X]	36B	[X]			36C	[ ]	36D	[ ]	36E	[ ]	36F	[ ]			36G	[ ]	36H	[ ]
+37A	[ ]	37B	[ ]			37C	[X]	37D	[ ]	37E	[ ]	37F	[ ]			37G	[ ]	37H	[ ]
+38A	[ ]	38B	[ ]			38C	[X]	38D	[X]	38E	[ ]	38F	[ ]			38G	[ ]	38H	[ ]
+39A	[ ]	39B	[ ]			39C	[X]	39D	[ ]	39E	[X]	39F	[ ]			39G	[ ]	39H	[ ]
+40A	[X]	40B	[ ]			40C	[ ]	40D	[ ]	40E	[ ]	40F	[ ]			40G	[ ]	40H	[ ]
+41A	[ ]	41B	[ ]			41C	[ ]	41D	[X]	41E	[ ]	41F	[ ]			41G	[ ]	41H	[ ]
+42A	[ ]	42B	[X]			42C	[ ]	42D	[ ]	42E	[ ]	42F	[ ]			42G	[ ]	42H	[ ]
+43A	[ ]	43B	[ ]			43C	[X]	43D	[ ]	43E	[ ]	43F	[ ]			43G	[ ]	43H	[ ]
+44A	[X]	44B	[X]			44C	[ ]	44D	[ ]	44E	[X]	44F	[ ]			44G	[ ]	44H	[ ]
+45A	[ ]	45B	[X]			45C	[ ]	45D	[ ]	45E	[X]	45F	[ ]			45G	[ ]	45H	[ ]
+46A	[X]	46B	[ ]			46C	[X]	46D	[X]	46E	[X]	46F	[ ]			46G	[ ]	46H	[ ]
+### END OF PLANE INFO ###
+
+### START OF SEAT SUMMARIES ###
+LargePlane (TC-PBM), model: Airbus, capacity: 368, businessSeatCount: 56
+BusinessPlaneSeat - Label: 1A - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 1B - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 1C - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 1D - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 1E - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 1F - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 1G - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 1H - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2A - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 2B - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 2C - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 2D - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2E - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2F - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2G - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 2H - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 3A - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 3B - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 3C - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 3D - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 3E - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 3F - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 3G - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 3H - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 4A - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 4B - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 4C - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 4D - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 4E - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 4F - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 4G - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 4H - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5A - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5B - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5C - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 5D - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 5E - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5F - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5G - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 5H - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6A - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6B - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6C - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6D - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 6E - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6F - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6G - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 6H - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 7A - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 7B - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 7C - Price: 576 TL - Baggage Limit: 40 kg - Booked: true
+BusinessPlaneSeat - Label: 7D - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 7E - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 7F - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 7G - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+BusinessPlaneSeat - Label: 7H - Price: 576 TL - Baggage Limit: 40 kg - Booked: false
+PlaneSeat - Label: 8A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 8B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 8H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 9A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 9B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 9C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 9D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 9E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 9F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 9G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 9H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 10B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 10C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 10D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 10H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 11C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 11E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 11H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 12A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 12B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 12C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 12D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 12E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 12F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 12G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 12H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 13C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 13D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 13H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 14B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 14C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 14H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 15B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 15D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 15F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 15H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 16A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 16B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 16C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 16D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 16E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 16F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 16G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 16H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 17E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 17F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 17H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 18C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 18H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 19A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 19B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 19C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 19D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 19E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 19F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 19G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 19H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 20E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 20F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 20H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 21A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 21B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 21C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 21D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 21E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 21F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 21G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 21H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 22E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 22H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 23A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 23B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 23C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 23D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 23E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 23F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 23G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 23H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 24A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 24B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 24C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 24D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 24E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 24F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 24G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 24H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 25C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 25H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 26D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 26F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 26H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 27H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 28C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 28D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 28E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 28H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 29E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 29H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 30A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 30B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 30C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 30D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 30E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 30F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 30G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 30H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 31A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 31B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 31C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 31D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 31E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 31F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 31G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 31H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 32A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 32B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 32C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 32D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 32E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 32F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 32G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 32H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 33A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 33B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 33C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 33D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 33E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 33F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 33G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 33H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 34A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 34B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 34C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 34D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 34E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 34F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 34G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 34H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 35A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 35B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 35C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 35D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 35E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 35F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 35G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 35H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 36A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 36B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 36C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 36D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 36E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 36F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 36G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 36H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 37A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 37B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 37C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 37D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 37E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 37F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 37G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 37H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 38A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 38B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 38C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 38D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 38E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 38F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 38G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 38H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 39A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 39B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 39C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 39D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 39E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 39F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 39G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 39H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 40A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 40B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 40C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 40D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 40E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 40F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 40G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 40H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 41A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 41B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 41C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 41D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 41E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 41F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 41G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 41H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 42A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 42B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 42C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 42D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 42E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 42F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 42G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 42H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 43A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 43B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 43C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 43D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 43E - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 43F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 43G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 43H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 44A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 44B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 44C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 44D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 44E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 44F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 44G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 44H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 45A - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 45B - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 45C - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 45D - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 45E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 45F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 45G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 45H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 46A - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 46B - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 46C - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 46D - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 46E - Price: 320 TL - Baggage Limit: 20 kg - Booked: true
+PlaneSeat - Label: 46F - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 46G - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+PlaneSeat - Label: 46H - Price: 320 TL - Baggage Limit: 20 kg - Booked: false
+### END OF SEAT SUMMARIES ###
+
+Vehicle was added. Bus (06DR2201), model: Tourismo, capacity: 40
+Basic seat price was set to 80 TL for 06DR2201.
+30 booked.
+No such seat exists.
+No such seat exists.
+28 booked.
+38 booked.
+11 booked.
+No such seat exists.
+36 booked.
+No such seat exists.
+11 cannot be booked, it's already booked.
+2 booked.
+7 booked.
+No such seat exists.
+No such seat exists.
+39 booked.
+26 booked.
+No such seat exists.
+40 booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+19 booked.
+No such seat exists.
+19 cannot be booked, it's already booked.
+No such seat exists.
+9 booked.
+No such seat exists.
+No such seat exists.
+4 booked.
+1 booked.
+26 cannot be booked, it's already booked.
+37 cannot be booked because neighbor seat was booked by different gender person.
+35 cannot be booked because neighbor seat was booked by different gender person.
+21 booked.
+3 cannot be booked because neighbor seat was booked by different gender person.
+16 booked.
+20 booked.
+8 booked.
+No such seat exists.
+9 cannot be booked, it's already booked.
+No such seat exists.
+23 booked.
+No such seat exists.
+19 cannot be booked, it's already booked.
+30 cannot be booked, it's already booked.
+No such seat exists.
+13 booked.
+9 cannot be booked, it's already booked.
+22 cannot be booked because neighbor seat was booked by different gender person.
+No such seat exists.
+26 cannot be booked, it's already booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+17 booked.
+13 cannot be booked, it's already booked.
+21 cannot be booked, it's already booked.
+No such seat exists.
+12 booked.
+24 booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+38 cannot be booked, it's already booked.
+6 booked.
+1 cannot be booked, it's already booked.
+39 cannot be booked, it's already booked.
+22 cannot be booked because neighbor seat was booked by different gender person.
+23 cannot be booked, it's already booked.
+16 cannot be booked, it's already booked.
+29 cannot be booked because neighbor seat was booked by different gender person.
+16 cannot be booked, it's already booked.
+39 cannot be booked, it's already booked.
+No such seat exists.
+15 booked.
+7 cannot be booked, it's already booked.
+28 cannot be booked, it's already booked.
+
+### START OF BUS INFO ###
+Bus (06DR2201), model: Tourismo, capacity: 40
+
+1	[F]	2	[F]			3	[ ]	4	[F]
+5	[ ]	6	[M]			7	[M]	8	[M]
+9	[F]	10	[ ]			11	[F]	12	[F]
+13	[F]	14	[ ]			15	[F]	16	[F]
+17	[F]	18	[ ]			19	[M]	20	[M]
+21	[F]	22	[ ]			23	[F]	24	[F]
+25	[ ]	26	[F]			27	[ ]	28	[F]
+29	[ ]	30	[F]			31	[ ]	32	[ ]
+33	[ ]	34	[ ]			35	[ ]	36	[F]
+37	[ ]	38	[F]			39	[F]	40	[F]
+### END OF BUS INFO ###
+
+### START OF SEAT SUMMARIES ###
+Bus (06DR2201), model: Tourismo, capacity: 40
+BusSeat - Label: 1 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 2 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 3 - Price: 80 TL - Booked: false
+BusSeat - Label: 4 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 5 - Price: 80 TL - Booked: false
+BusSeat - Label: 6 - Price: 80 TL - Booked: true (M)
+BusSeat - Label: 7 - Price: 80 TL - Booked: true (M)
+BusSeat - Label: 8 - Price: 80 TL - Booked: true (M)
+BusSeat - Label: 9 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 10 - Price: 80 TL - Booked: false
+BusSeat - Label: 11 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 12 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 13 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 14 - Price: 80 TL - Booked: false
+BusSeat - Label: 15 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 16 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 17 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 18 - Price: 80 TL - Booked: false
+BusSeat - Label: 19 - Price: 80 TL - Booked: true (M)
+BusSeat - Label: 20 - Price: 80 TL - Booked: true (M)
+BusSeat - Label: 21 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 22 - Price: 80 TL - Booked: false
+BusSeat - Label: 23 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 24 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 25 - Price: 80 TL - Booked: false
+BusSeat - Label: 26 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 27 - Price: 80 TL - Booked: false
+BusSeat - Label: 28 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 29 - Price: 80 TL - Booked: false
+BusSeat - Label: 30 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 31 - Price: 80 TL - Booked: false
+BusSeat - Label: 32 - Price: 80 TL - Booked: false
+BusSeat - Label: 33 - Price: 80 TL - Booked: false
+BusSeat - Label: 34 - Price: 80 TL - Booked: false
+BusSeat - Label: 35 - Price: 80 TL - Booked: false
+BusSeat - Label: 36 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 37 - Price: 80 TL - Booked: false
+BusSeat - Label: 38 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 39 - Price: 80 TL - Booked: true (F)
+BusSeat - Label: 40 - Price: 80 TL - Booked: true (F)
+### END OF SEAT SUMMARIES ###
+
+Vehicle was added. TwoPlusOneBus (06EP5112), model: Starliner, capacity: 33
+Basic seat price was set to 45 TL for 06EP5112.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+15 booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+4 booked.
+25 booked.
+5 booked.
+28 booked.
+30 booked.
+16 booked.
+No such seat exists.
+No such seat exists.
+2 booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+32 booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+33 booked.
+No such seat exists.
+18 booked.
+No such seat exists.
+No such seat exists.
+21 booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+17 cannot be booked because neighbor seat was booked by different gender person.
+25 cannot be booked, it's already booked.
+32 cannot be booked, it's already booked.
+2 cannot be booked, it's already booked.
+17 cannot be booked because neighbor seat was booked by different gender person.
+28 cannot be booked, it's already booked.
+15 cannot be booked, it's already booked.
+No such seat exists.
+No such seat exists.
+23 booked.
+18 cannot be booked, it's already booked.
+No such seat exists.
+16 cannot be booked, it's already booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+33 cannot be booked, it's already booked.
+3 cannot be booked because neighbor seat was booked by different gender person.
+No such seat exists.
+11 booked.
+No such seat exists.
+No such seat exists.
+8 booked.
+23 cannot be booked, it's already booked.
+No such seat exists.
+No such seat exists.
+No such seat exists.
+16 cannot be booked, it's already booked.
+3 booked.
+No such seat exists.
+No such seat exists.
+6 cannot be booked because neighbor seat was booked by different gender person.
+No such seat exists.
+5 cannot be booked, it's already booked.
+No such seat exists.
+No such seat exists.
+7 booked.
+2 cannot be booked, it's already booked.
+No such seat exists.
+No such seat exists.
+
+### START OF BUS INFO ###
+TwoPlusOneBus (06EP5112), model: Starliner, capacity: 33
+
+*1	[ ]			2	[M]	3	[M]
+*4	[M]			5	[M]	6	[ ]
+*7	[M]			8	[M]	9	[ ]
+*10	[ ]			11	[F]	12	[ ]
+*13	[ ]			14	[ ]	15	[F]
+*16	[M]			17	[ ]	18	[F]
+*19	[ ]			20	[ ]	21	[M]
+*22	[ ]			23	[M]	24	[ ]
+*25	[F]			26	[ ]	27	[ ]
+*28	[M]			29	[ ]	30	[M]
+*31	[ ]			32	[M]	33	[M]
+### END OF BUS INFO ###
+
+### START OF SEAT SUMMARIES ###
+TwoPlusOneBus (06EP5112), model: Starliner, capacity: 33
+BusinessBusSeat - Label: 1 - Price: 58 TL - Booked: false
+BusSeat - Label: 2 - Price: 45 TL - Booked: true (M)
+BusSeat - Label: 3 - Price: 45 TL - Booked: true (M)
+BusinessBusSeat - Label: 4 - Price: 58 TL - Booked: true (M)
+BusSeat - Label: 5 - Price: 45 TL - Booked: true (M)
+BusSeat - Label: 6 - Price: 45 TL - Booked: false
+BusinessBusSeat - Label: 7 - Price: 58 TL - Booked: true (M)
+BusSeat - Label: 8 - Price: 45 TL - Booked: true (M)
+BusSeat - Label: 9 - Price: 45 TL - Booked: false
+BusinessBusSeat - Label: 10 - Price: 58 TL - Booked: false
+BusSeat - Label: 11 - Price: 45 TL - Booked: true (F)
+BusSeat - Label: 12 - Price: 45 TL - Booked: false
+BusinessBusSeat - Label: 13 - Price: 58 TL - Booked: false
+BusSeat - Label: 14 - Price: 45 TL - Booked: false
+BusSeat - Label: 15 - Price: 45 TL - Booked: true (F)
+BusinessBusSeat - Label: 16 - Price: 58 TL - Booked: true (M)
+BusSeat - Label: 17 - Price: 45 TL - Booked: false
+BusSeat - Label: 18 - Price: 45 TL - Booked: true (F)
+BusinessBusSeat - Label: 19 - Price: 58 TL - Booked: false
+BusSeat - Label: 20 - Price: 45 TL - Booked: false
+BusSeat - Label: 21 - Price: 45 TL - Booked: true (M)
+BusinessBusSeat - Label: 22 - Price: 58 TL - Booked: false
+BusSeat - Label: 23 - Price: 45 TL - Booked: true (M)
+BusSeat - Label: 24 - Price: 45 TL - Booked: false
+BusinessBusSeat - Label: 25 - Price: 58 TL - Booked: true (F)
+BusSeat - Label: 26 - Price: 45 TL - Booked: false
+BusSeat - Label: 27 - Price: 45 TL - Booked: false
+BusinessBusSeat - Label: 28 - Price: 58 TL - Booked: true (M)
+BusSeat - Label: 29 - Price: 45 TL - Booked: false
+BusSeat - Label: 30 - Price: 45 TL - Booked: true (M)
+BusinessBusSeat - Label: 31 - Price: 58 TL - Booked: false
+BusSeat - Label: 32 - Price: 45 TL - Booked: true (M)
+BusSeat - Label: 33 - Price: 45 TL - Booked: true (M)
+### END OF SEAT SUMMARIES ###
